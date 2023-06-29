@@ -3,7 +3,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#50f0ff00">
+    android:background="@drawable/goldlog">
 
     <TextView
         android:id="@+id/textView"
@@ -20,6 +20,6 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="5"
+        android:layout_weight="1"
         />
 </LinearLayout>
