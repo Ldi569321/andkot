@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "AndKot"
 include ':app'
 include ':mylayot'
+include ':myword'
