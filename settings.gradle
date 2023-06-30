@@ -16,3 +16,8 @@ rootProject.name = "AndKot"
 include ':app'
 include ':mylayot'
 include ':myword'
+include ':mtgrid'
+include ':mygrid'
+include ':mystimer'
+include ':mytimer'
+include ':mycount'
